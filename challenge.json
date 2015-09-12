@@ -1,0 +1,6 @@
+{
+  "editable": [
+    "Hello.scala"
+  ],
+  "test": "sbt test"
+}
